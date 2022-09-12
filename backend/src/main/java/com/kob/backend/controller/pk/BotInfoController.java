@@ -21,6 +21,6 @@ public class BotInfoController {
         map.put("name", "apple");
         map.put("rating", "1500");
         return map;
-
+        // test git hha
     }
 }
